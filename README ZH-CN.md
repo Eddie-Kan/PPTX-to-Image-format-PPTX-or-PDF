@@ -46,3 +46,6 @@ python pptx-to-image_PPTX.py
 脚本仅在 Windows 系统上运行，因为使用了 Windows COM 接口来控制 PowerPoint。
 请确保安装了兼容的 Microsoft Office PowerPoint 版本。
 运行脚本前，请关闭所有打开的 PowerPoint 应用程序，以避免可能的冲突。
+
+## 许可协议
+本项目使用 MIT 许可证进行许可。
